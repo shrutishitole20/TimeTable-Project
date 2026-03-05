@@ -111,4 +111,7 @@ Settings: /api/settings/
 (screenshots)
 Dashboard:
 Timetable View:
-Login Page:
+Login Page:<img width="1898" height="869" alt="image" src="https://github.com/user-attachments/assets/a8c19807-1e36-44d0-b59c-d9876cd7adeb" />
+
+
+
